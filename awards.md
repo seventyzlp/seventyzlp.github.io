@@ -6,7 +6,7 @@ title: Awards
 
 ## Scholarships
 
-- May 2024：Shiran Innovation Sponsorship ($1400)<br>One of the highest research awards in my school
+- First class scholarship - to the top student in my school
 
 ## Services
 
