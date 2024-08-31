@@ -25,5 +25,5 @@ Will start work on it in Sept. 2024, may focus on interaction technology.
 
 ## Early Project
 
-- [Plugin and command line tool which use blender API to modify .usd file and do not break the target .usd structure][https://github.com/seventyzlp/Blender-Usd-Modifier]
+- [Plugin and command line tool which use blender API to modify .usd file and do not break the target .usd structure](https://github.com/seventyzlp/Blender-Usd-Modifier)
   ![toolchain](/images/BlenderTool.png)
