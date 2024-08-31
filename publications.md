@@ -27,3 +27,15 @@ Will start work on it in Sept. 2024, may focus on interaction technology.
 
 - [Plugin and command line tool which use blender API to modify .usd file and do not break the target .usd structure](https://github.com/seventyzlp/Blender-Usd-Modifier)
   ![toolchain](/images/BlenderTool.png)
+
+- Custom Unity Render Pepline
+  ![Unitypepline](/images/liang2.png)![UnityPepline](/images/pixelbox.png)
+
+- Dome based cristal - blender cycles
+  ![dome](/images/dome.png)
+
+- VR cooking Game with Spatical audio - Wwise, Unity, SteamVR Index2.0
+  ![VR](/images/VR.png)
+
+- [Esp32 game console](https://github.com/seventyzlp/Esp32-GamePad)
+  ![Console](/images/console.png)
