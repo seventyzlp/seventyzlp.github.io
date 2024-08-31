@@ -14,8 +14,6 @@ Currently, I serve as a research assistant at Self-Progressive Embodied AI inter
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *lepingzhang2002@gmail.com*
 
-[CV](/file/CV_ZhangLeping.pdf)
-
 ## Academic Background
 
 - **May 2023 - Present:** Tsinghua University (RA intern)

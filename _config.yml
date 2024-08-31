@@ -4,10 +4,10 @@ url: https://seventyzlp.github.io
 # Owner/author information
 owner:
   name: Leping Zhang
-  avatar: photo.jpg
+  avatar: https://seventyzlp.github.io/photo.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: lepingzhang2002@gmail.com
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: https://seventyzlp.github.io/file/CV_ZhangLeping.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: seventy_zlp
   github: https://github.com/seventyzlp
@@ -70,7 +70,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: LepingZhang
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
