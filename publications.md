@@ -25,17 +25,45 @@ Will start work on it in Sept. 2024, may focus on interaction technology.
 
 ## Early Project
 
-- [Plugin and command line tool which use blender API to modify .usd file and do not break the target .usd structure](https://github.com/seventyzlp/Blender-Usd-Modifier)
-  ![toolchain](/images/BlenderTool.png)
+---
 
-- Custom Unity Render Pepline
-  ![Unitypepline](/images/liang2.png)![UnityPepline](/images/pixelbox.png)
+### [Plugin and command line tool which use blender API to modify .usd file](https://github.com/seventyzlp/Blender-Usd-Modifier)
 
-- Dome based cristal - blender cycles
-  ![dome](/images/dome.png)
+<div class="image-wrap">
+  <img src="/images/BlenderTool.png" alt="Blender USD Modifier Tool">
+</div>
 
-- VR cooking Game with Spatical audio - Wwise, Unity, SteamVR Index2.0
-  ![VR](/images/VR.png)
+---
 
-- [Esp32 game console](https://github.com/seventyzlp/Esp32-GamePad)
-  ![Console](/images/console.png)
+### Custom Unity Render Pipeline
+
+<div class="half">
+  <img src="/images/liang2.png" alt="Unity Render Pipeline 1">
+  <img src="/images/pixelbox.png" alt="Unity Render Pipeline 2">
+</div>
+
+---
+
+### Dome based crystal - Blender Cycles
+
+<div class="image-wrap">
+  <img src="/images/dome.png" alt="Dome Crystal Rendering" style="max-width: 60%; display: block; margin: 0 auto;">
+</div>
+
+---
+
+### VR Cooking Game with Spatial Audio
+
+<div class="image-wrap">
+  <img src="/images/VR.png" alt="VR Cooking Game">
+</div>
+
+Technologies: Wwise, Unity, SteamVR Index 2.0
+
+---
+
+### [Esp32 Game Console](https://github.com/seventyzlp/Esp32-GamePad)
+
+<div class="image-wrap">
+  <img src="/images/console.png" alt="Esp32 Game Console" style="max-width: 60%; display: block; margin: 0 auto;">
+</div>
